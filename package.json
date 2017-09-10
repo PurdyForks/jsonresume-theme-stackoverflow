@@ -1,11 +1,20 @@
 {
-  "name": "jsonresume-theme-stackoverflow",
+  "name": "jsonresume-theme-stackoverflow-skills",
   "version": "1.4.0",
   "description": "Stack Overflow theme for JSON Resume",
-  "author": "Francesco Esposito <http://fran.cesco.io>",
+  "contributors": [
+    {
+      "name": "Francesco Esposito",
+      "url": "http://fran.cesco.io"
+    },
+    {
+      "name": "Joe Purdy",
+      "url": "https://joepurdy.io"
+    }
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/francescoes/jsonresume-theme-stackoverflow"
+    "url": "https://github.com/joepurdy/jsonresume-theme-stackoverflow-skills"
   },
   "license": "MIT",
   "main": "index.js",

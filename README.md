@@ -1,8 +1,8 @@
-# Stack Overflow theme for jsonresume [![npm version](https://badge.fury.io/js/jsonresume-theme-stackoverflow.svg)](http://badge.fury.io/js/jsonresume-theme-stackoverflow)
+# Stack Overflow theme for jsonresume [![npm version](https://badge.fury.io/js/jsonresume-theme-stackoverflow-skills.svg)](http://badge.fury.io/js/jsonresume-theme-stackoverflow-skills)
 
 **Printable version with custom CSS**
 
-[DEMO](https://themes.jsonresume.org/stackoverflow)
+[DEMO](https://themes.jsonresume.org/stackoverflow-skills)
 
 ## Getting started
 
@@ -22,12 +22,12 @@ sudo npm install -g resume-cli
 Clone the repository
 
 ```
-npm install jsonresume-theme-stackoverflow
+npm install jsonresume-theme-stackoverflow-skills
 ```
 
 then change directory: 
 
-`cd node_modules/jsonresume-theme-stackoverflow/`
+`cd node_modules/jsonresume-theme-stackoverflow-skills/`
 
 And simply run:
 
@@ -84,7 +84,7 @@ example of the extra `birth` object:
 
 Fork the project, add your feature (or fix your bug) and open a pull request OR
 
-[Open an issue](https://github.com/francescoes/jsonresume-theme-stackoverflow/issues/new) if you find find or if you would like to have extra fields or changes 
+[Open an issue](https://github.com/francescoes/jsonresume-theme-stackoverflow-skills/issues/new) if you find find or if you would like to have extra fields or changes 
 
 ## License
 
