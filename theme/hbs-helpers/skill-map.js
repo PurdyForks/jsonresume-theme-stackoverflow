@@ -13,4 +13,4 @@ function skillMap(str) {
   }
 }
 
-Handlebars.registerHelper('skillMap', str => skillMap(str));
+Handlebars.registerHelper('skillMap', str => skillMap(str.toLowerCase()));
