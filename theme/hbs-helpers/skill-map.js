@@ -1,6 +1,4 @@
-const Handlebars = require('handlebars');
-
-function skillMap(str) {
+const skillMap = (str) => {
   switch(str) {
     case "master":
       return "Mentored others"
@@ -13,4 +11,4 @@ function skillMap(str) {
   }
 }
 
-Handlebars.registerHelper('skillMap', str => skillMap(str.toLowerCase()));
+module.exports = { skillMap };
